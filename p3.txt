@@ -1,0 +1,12 @@
+Painting and CS are alike
+CS is an extremely broad descriptor
+Programmers get mixed up in research
+Difficult to judge programmer design
+Arguable how much a programmer needs to know about CS theory.
+People program differently, some programmers are more like artists and writers than mathematicians.
+Big companies want people to implement their design. They want safe design. The best way to explore is in uncharted waters (startup).
+But startups are kinda nasty.
+Open source on the side.
+Learn to program by programming and looking at other good programs.
+Program specifications will adjust
+Think of the audience and capitalize on it.

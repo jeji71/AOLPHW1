@@ -1,0 +1,4 @@
+Kernel (controls resources), Shell (interfaces kernel), Utilities
+Pipelining, <c1> | <c2> | <c3> ....
+Filesystem: file is just sequence of bytes, heirarchy of directories, user directory
+I/O Redirection >, <, >>
